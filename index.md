@@ -19,10 +19,11 @@
   - Cloud Native Developer JP のオーガナイザ
 
 ## 技術営業カバー領域
+
 |カテゴリ|タイプ|IBM製品・サービス名称|
 |:--|:--:|:--|
 |アプリケーションサーバー|ソフトウェア|WebSphere Liberty|
-|モバイルバックエンド基盤|ソフトウェア|MobileFirst Foundation Platform (Worklight)|
+|モバイルバックエンド基盤|ソフトウェア|MobileFirst Foundation Platform (Worklight)|
 |API管理基盤|ソフトウェア|API Connect|
 |CI/CD|ソフトウェア|UrbanCode|
 |クラウドプラットフォーム|PaaS|IBM Cloud (Bluemix)|
