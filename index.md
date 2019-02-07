@@ -81,6 +81,10 @@
   - Webサービス: 某社のマニュアルページAPIをラップする REST APIの開発
   - モバイルアプリ(ハイブリッド): 飲食店サービス(食べログ的な)をハイブリッドアプリとして開発 (javascript(AngularJS, React), cordova(Ionic)でAndroid/iOS対応)
   - モバイルアプリ(ネイティブ): ToDo管理アプリをネイティブアプリとして開発 (Android, iOS それぞれに開発)
+- 非テック系
+  - クラフトビール IPA (#1 ==> [MOSAIC-HERO](https://www.malt-st.com/SHOP/BE-AQ-RL-09.html))
+  - 家系ラーメン (#1 ==> [寿三家@蔵前](http://www.kotomiya.com/))
+  - とんかつ (#1 ==> [松竹@南千住](https://tabelog.com/tokyo/A1324/A132401/13057706/))
   
 Raspberry Kubernetes クラスター
 
