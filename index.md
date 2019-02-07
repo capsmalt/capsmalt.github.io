@@ -6,8 +6,8 @@
 - 日本アイ・ビー・エム株式会社 (2013年4月〜現在)
   - ソフトウェア/ハードウェア/SIer/クラウドプロバイダーなど幅広くカバーするIT企業
 - 2018年 Best of IBM 受賞
-  - 営業系，技術系部門などIBM全社員の中で良い実績や貢献ができた一部の社員に贈られるアワードです。バハマでの受賞セレモニーに招待され，世界中のIBMerとその家族と祝い合うという普段では想像できない面白い体験ができました。
-  - 受賞理由: API Management系製品の国内ローンチや，Kubernetes製品の国内ローンチなど，初期フェーズにおける多数のお客様へのアプローチ，その他(通常の職務を超えたテクニカルコミュニティでの活動など)，IBMがクラウドネイティブ系を促進するための火付け役として，社内外で貢献できたことを評価頂きました。
+  - 営業系，技術系部門などIBM全社員の中で高い実績や貢献ができた一部の社員に贈られるアワードです。バハマでの受賞セレモニーに招待され，世界中のIBMerやその家族と祝い合うというIBM内では類を見ない特別なイベントです。
+  - 受賞理由: API Management系製品の国内ローンチや，Kubernetes製品の国内ローンチなど，初期フェーズにおける多数のお客様へのアプローチ，その他(通常の職務を超えたテクニカルコミュニティでの活動など)，IBMがクラウドネイティブ系を促進するための火付け役として，社内外で貢献できたことを評価頂きました。
 
 ## 職務内容
 - 技術営業職(テクニカルセールス)
@@ -21,16 +21,16 @@
   - Cloud Native Developer JP のオーガナイザ
 
 ## 技術営業カバー領域
-|時期|カテゴリ|タイプ|IBM製品・サービス名称|備考|
+|時期|カテゴリ|タイプ|IBM製品名|関連OSS|
 |:--|:--|:--:|:--|:--|
-|2013-2017|アプリケーションサーバー|ソフトウェア|WebSphere Liberty|
-|2013-2015|モバイルバックエンド基盤|ソフトウェア|MobileFirst Foundation Platform (Worklight)|
-|2014-|クラウドプラットフォーム|PaaS|IBM Cloud (Bluemix)|
-|2016-2017|機械学習|PaaS|Watson (Visual Recognition)|
-|2016-2017|API管理基盤|ソフトウェア|API Connect|
-|2017-|CI/CD|ソフトウェア|UrbanCode|
-|2017-|**Kubernetes (Public)**|**IaaS+/PaaS**|**IBM Cloud Kubernetes Service (IKS)**|
-|2017-|**Kubernetes (Private)**|**ソフト  ウェア**|**IBM Cloud Private (ICP)**|
+|2013-2017|アプリケーションサーバー|ソフトウェア|WebSphere Liberty|Java|
+|2013-2015|モバイルバックエンド基盤|ソフトウェア|MobileFirst Foundation Platform (Worklight)|Cordova,Java|
+|2014-2015|クラウドプラットフォーム|PaaS|IBM Cloud (Bluemix)|--|
+|2016-2017|機械学習|PaaS|Watson (Visual Recognition)|--|
+|2016-2017|API管理基盤|ソフトウェア|API Connect|--|
+|2017-|CI/CD|ソフトウェア|UrbanCode|Jenkins, Terraform|
+|2017末-|**Kubernetes (Public)**|**IaaS+/PaaS**|**IBM Cloud Kubernetes Service (IKS)**|Kubernetes|
+|2017末-|**Kubernetes (Private)**|**ソフト  ウェア**|**IBM Cloud Private (ICP)**|Kubernetes, Jenkins, Prometheus, Istio, etc.|
 
 ## その他 (2018年以降のクラウドネイティブ関連を一部抜粋)
 - Web取材記事
@@ -45,26 +45,26 @@
 - カンファレンスレポート
   - [オープンでロックインなし 業務でKubernetesを使うための“最高の仕事道具”とは](https://thinkit.co.jp/article/14034), Think IT（シンクイット）
 
-- 大規模カンファレンス
+- 大規模カンファレンス
   - Japan Container Days(JKD) V18.04: ブレイクアウトセッション
     - [Japan Container Days: 「今こそKubernetes。最高の仕事道具で使いこなそう」by capsmalt](https://www.slideshare.net/capsmalt/japan-container-days-kubernetesby-capsmalt)
-  - Japan Container Days(JKD) V18.12: キーノート
+  - Japan Container Days(JKD) V18.12: キーノート
     - [Japan Container Days v18\.12: \[Keynote\]「Cloud Nativeの未来とIBMの取組み」 by capsmalt](https://www.slideshare.net/capsmalt/jkdv1812keynoteibmcapsmalt)
   - Japan Container Days(JKD) V18.12: ブレイクアウトセッション
     - [Cloud Native プロダクト 1000本ノック from Cloud Native Meetup Tokyo](https://speakerdeck.com/masayaaoyama/jkd1812-cloudnativemeetup)
 
 - 参加者1000人未満の大規模イベント
   - JJUG CCC
-    - 6000人以上のJavaエンジニアが参加するコミュニティが主催する大規模イベント
+    - 6000人以上のJavaエンジニアが参加するコミュニティが主催する大規模イベント (1000人+)
   - Cloud Native Developer JP
-    - SIer数社+Web系数社のメンバーが仕事とは関係なく運営しているクラウドネイティブ系コミュニティ
+    - SIer数社 + Web系数社のメンバーが仕事とは関係なく運営しているクラウドネイティブ系コミュニティ
     - KubernetesにおけるCI/CDに関するセッションを実施
   - Kubernetes Meetup Tokyo
     - Kubernetesエンジニアが集結する国内最大のコミュニティ
     - KubeCon2018@シアトル のフィードバックと & OSS Private registryに関するセッションを実施
   - Think Japan Developer Day
     - IBMが初めて開催したエンジニアフォーカスのテクノロジーイベント
-    - 他社CIOと一緒に登壇し，Contaier/Kubernetesセッションを実施
-  - IBM Cloud Community Summit
+    - 他社CIOと一緒に登壇し，Contaier/Kubernetesセッションを実施
+  - IBM Cloud Community Summit
     - 年に一度，ユーザー企業主催で開催される大規模IBM Cloudコミュニティイベント
-    - IBMのコンテナ/Kubernetes事情をまとめたセッションを実施
+    - IBMのコンテナ/Kubernetes事情をまとめたセッションを実施
