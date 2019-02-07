@@ -22,6 +22,7 @@
   - Cloud Native Developer JP のオーガナイザ
 
 ## 技術営業カバー領域
+
 |時期|カテゴリ|タイプ|IBM製品名|関連OSS|
 |:--|:--|:--:|:--|:--|
 |2013-2017|アプリケーションサーバー|ソフトウェア|WebSphere Liberty|Java|
@@ -82,7 +83,9 @@
   - モバイルアプリ(ネイティブ): ToDo管理アプリをネイティブアプリとして開発 (Android, iOS それぞれに開発)
   
 Raspberry Kubernetes クラスター
+
 [![Alt text](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/38422365_1784828494944419_5341853290793533440_n.jpg?_nc_cat=101&_nc_ht=scontent-nrt1-1.xx&oh=af1efe9c930da15db9b22d8a1f404fdc&oe=5CF91291)](https://www.facebook.com/100002518578378/posts/1784828524944416/)
 
 Japan Container Days打ち上げ
+
 [![Alt text](https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/47573580_1945944968832770_7807684244100087808_n.jpg?_nc_cat=103&_nc_ht=scontent-nrt1-1.xx&oh=2af8d256f9b084adb7600550a651a142&oe=5CEA19F0)](https://www.facebook.com/100002518578378/posts/1945945005499433/)
